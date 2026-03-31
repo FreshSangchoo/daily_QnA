@@ -1,0 +1,45 @@
+html, body, #root{
+    margin: 0;
+}
+
+@font-face {
+    font-family: "SUITE-Bold";
+    src: url("../src/assets/fonts/SUITE-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SUITE-ExtraBold";
+    src: url("../src/assets/fonts/SUITE-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SUITE-Heavy";
+    src: url("../src/assets/fonts/SUITE-Heavy.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SUITE-Light";
+    src: url("../src/assets/fonts/SUITE-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SUITE-Medium";
+    src: url("../src/assets/fonts/SUITE-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SUITE-Regular";
+    src: url("../src/assets/fonts/SUITE-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SUITE-SemiBold";
+    src: url("../src/assets/fonts/SUITE-SemiBold.ttf") format("truetype");
+}
+
+body {
+    font-family: "SUITE-Regular", "SUITE-Bold", "SUITE-ExtraBold", "SUITE-Heavy", "SUITE-Light", "SUITE-Medium", "SUITE-SemiBold", ;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+    margin: 0;
+    font-family: "SUITE-Regular";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
