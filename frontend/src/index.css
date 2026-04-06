@@ -4,31 +4,31 @@ html, body, #root{
 
 @font-face {
     font-family: "SUITE-Bold";
-    src: url("../src/assets/fonts/SUITE-Bold.ttf") format("truetype");
+    src: url("@/assets/fonts/SUITE-Bold.ttf") format("truetype");
 }
 @font-face {
     font-family: "SUITE-ExtraBold";
-    src: url("../src/assets/fonts/SUITE-ExtraBold.ttf") format("truetype");
+    src: url("@/assets/fonts/SUITE-ExtraBold.ttf") format("truetype");
 }
 @font-face {
     font-family: "SUITE-Heavy";
-    src: url("../src/assets/fonts/SUITE-Heavy.ttf") format("truetype");
+    src: url("@/assets/fonts/SUITE-Heavy.ttf") format("truetype");
 }
 @font-face {
     font-family: "SUITE-Light";
-    src: url("../src/assets/fonts/SUITE-Light.ttf") format("truetype");
+    src: url("@/assets/fonts/SUITE-Light.ttf") format("truetype");
 }
 @font-face {
     font-family: "SUITE-Medium";
-    src: url("../src/assets/fonts/SUITE-Medium.ttf") format("truetype");
+    src: url("@/assets/fonts/SUITE-Medium.ttf") format("truetype");
 }
 @font-face {
     font-family: "SUITE-Regular";
-    src: url("../src/assets/fonts/SUITE-Regular.ttf") format("truetype");
+    src: url("@/assets/fonts/SUITE-Regular.ttf") format("truetype");
 }
 @font-face {
     font-family: "SUITE-SemiBold";
-    src: url("../src/assets/fonts/SUITE-SemiBold.ttf") format("truetype");
+    src: url("@assets/fonts/SUITE-SemiBold.ttf") format("truetype");
 }
 
 body {

@@ -5,7 +5,7 @@
 }
 .inputbox-large,
 .inputbox-medium,
-.inputbox-small :focus{
+.inputbox-small:focus{
     outline: none;
 }
 
